@@ -1,0 +1,27 @@
+Objetivo: Elaborar uma API Flask com MySQL de acordo com a modelagem proposta
+
+Entrega: 18/10/2021
+
+Detalhes do projeto:
+
+    - De acordo com a modelagem proposta, crie uma API Flask;
+    - Para cada tabela, serÃ£o elaboradas Rotas e MÃ©todos de PersistÃªncia de Dados, com queries de SELECT, INSERT e UPDATE;
+    - Para a tabela de equipamentos, serÃ£o elaboradas Rotas e MÃ©todos de PersistÃªncia de Dados, com queries de SELECT, INSERT, UPDATE e DELETE;
+    - O cÃ³digo de exemplo estÃ¡ no repositÃ³rio de projetos do IEMAC no GitHub: https://github.com/labdeviemac/flask_api_backend
+    - Use os arquivos .pdf (com a modelagem das tabelas) e .sql (para criar a base de dados em seu MySQL local)
+    - No decorrer da semana do dia 3/11, serÃ£o passadas dicas e ajudas para o projeto que serÃ¡ feito;
+    
+Para mais questionamentos e/ou dÃºvidas, entre em contato comigo pelo Grupo do WhatsApp da turma, pois a dÃºvida de um, pode ser a de todos!
+
+Boa sorte. O projeto vale nota de avaliaÃ§Ã£o da disciplina.
+
+
+Utilize os softwares:
+
+    - PyCharm Community 2021.1 ou Visual Studio Code;
+    - MySQL 8.0;
+    - Virtualenv, criada dentro do projeto, com os seguintes softwares:
+        - flask_restful
+        - flask
+        - mysql-connector-python
+        - flask_cors
